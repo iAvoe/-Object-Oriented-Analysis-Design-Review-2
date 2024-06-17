@@ -219,6 +219,8 @@ The term "I'll know it when I see it" applies to one valid way to get requiremen
 Asking about error conditions usually is done in later interviews after the analyst understands and documents the basic processing requirements.​
 - False
 
+-----
+
 ### FURPS+ Requirements
 
 _______ requirements are most often documented in graphical and textual models.
@@ -255,6 +257,8 @@ The "+" in FURPS+ includes which of the following types of requirements? (choose
 FURPS and FURPS+ are synonymous.​
 - False, + represents other requirements such as supportability, design constraints
 
+-----
+
 ### Stakeholder
 
 "Identify the stakeholder" happens in which of the 6 core processes?
@@ -280,6 +284,8 @@ The group that provides direction for the configuration of the new system in the
 
 Which of the following is normally the most time-consuming and resource-expensive operation?​
 - Interview stakeholders
+
+-----
 
 ### Analyze phase (core process 3)
 
@@ -313,6 +319,8 @@ Two benefits of researching vendor solutions include _______ and ______. (Choose
 - Helping analysts discover state of the art solutions
 - Helping users generate new ideas for business functions
 
+-----
+
 #### Analyze - Interview & Questionnaires
 
 As part of the interview process, any unresolved issues should be _______.​
@@ -321,7 +329,6 @@ As part of the interview process, any unresolved issues should be _______.​
 What are the two primary benefits of reviewing the documentation of existing inputs, outputs, and procedures.
 - Obtain a preliminary understanding
 - ​Serve as visual aids in interview discussions
-
 
 Questions that have a simple, definitive answer are called _______ questions.​
 - ​Close-ended
@@ -362,6 +369,8 @@ Asking many detailed, probing questions during an initial interview usually ____
 ____ is an important part of each interview.​
 - Follow-up
 
+-----
+
 ### Activity Diagram
 
 One way to show multiple, independent alternative paths within an activity diagram is with a _______.​
@@ -379,6 +388,8 @@ A decision point within an activity diagram may be shown with an activity symbol
 A synchronization bar in an activity diagram allows multiple agents or actors to participate in a workflow in separate rows.​
 - False
 
+-----
+
 ### Clients
 
 Clients play what role in the development of the new system?​
@@ -386,6 +397,8 @@ Clients play what role in the development of the new system?​
 
 What do we call the person or group who provides funding for the development of the new system?​
 - Client
+
+-----
 
 ### Technology & Application architecture
 
