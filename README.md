@@ -161,6 +161,7 @@ A set of computing & network hardware, topology, and system software employed by
 ### application architecture
 
 The set of information systems (software applications) the organization needs to support its strategic plan
+- VPN is not an application architecture
 
 ### Incremental Development
 
@@ -385,14 +386,14 @@ One way to show multiple, independent alternative paths within an activity diagr
 Workflows can be documented using _______.​
 - Activity diagrams
 
-Looping in an activity diagram is best represented using what?​
-synchronization bars
-
 A decision point within an activity diagram may be shown with an activity symbol.​
 - True
 
+Looping in an activity diagram is best represented using what?​
+- Synchronization bars
+
 A synchronization bar in an activity diagram allows multiple agents or actors to participate in a workflow in separate rows.​
-- False
+- False, to merge
 
 -----
 
