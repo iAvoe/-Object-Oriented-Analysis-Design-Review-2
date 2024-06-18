@@ -156,11 +156,11 @@ A collection of guidelines that specify a method for how to carry out a developm
 
 ### technology architecture
 
-A set of computing hardware, network hardware and topology, and system software employed by an organization
+A set of computing & network hardware, topology, and system software employed by an organization
 
 ### application architecture
 
-The set of information systems (the software applications) the organization needs to support its strategic plan
+The set of information systems (software applications) the organization needs to support its strategic plan
 
 ### Incremental Development
 
@@ -201,11 +201,11 @@ The reason an analyst uses many different models is that each relates to a diffe
 A key reason that modeling is important in system development is the complexity of describing information systems.​
 - True
 
-Diagrams and schematic representations of some aspect of a system are examples of a ______ model.​
-graphical
-
 A representation of some aspect of the system being built is a _______.​
 - Model
+
+Diagrams and schematic representations of some aspect of a system are examples of a ______.​
+- Graphical model
 
 A series of formulas that describe technical aspects of a system is a(n).:
 - Mathematical model
@@ -233,26 +233,29 @@ _______ requirements are based on the procedures and rules that the organization
 - Functional
 
 _______ requirements are characteristics of the system other than the business procedures it must support.​
-- Nonfunctional
+- Non-functional
 
-The S in the FURPS acronym stands for _______.​
-- Security requirements
+The U in the FURPS acronym stands for _______.​
+- Usability requirements
+
+The R in the FURPS acronym stands for _______.​
+- Reliability requirements
 
 The P in the FURPS acronym stands for _______.​
 - Performance requirements
 
-Every successful interview requires ____.​
-- Preparation
+The S in the FURPS acronym stands for _______.​
+- Security requirements
+
+The "+" in FURPS+ includes which of the following types of requirements? (choose two)​
+- Supportability requirements
+- ​Design constraints
 
 The term "I'll know it when I see it" refers to what method of requirements definition.​
 - Collecting active user comments
 
 One important reason for prioritizing requirements is to _______.​
 - Avoid scope creep
-
-The "+" in FURPS+ includes which of the following types of requirements? (choose two)​
-- Supportability requirements
-- ​Design constraints
 
 FURPS and FURPS+ are synonymous.​
 - False, + represents other requirements such as supportability, design constraints
@@ -273,10 +276,10 @@ Before gathering detailed information, and analyst identifies every type of stak
 In the RMO CSMS project, customers are not considered stakeholders because it is not feasible to interview them or use them in the project activities.​
 - False, the customers are not directly impacted with project success / fail
 
-Persons who regularly interact with the system as part of their jobs are called _______.​
-- ​operational stakeholders
+Persons who regularly interact with the system as part of their jobs are:
+- Operational stakeholders
 
-What type of stakeholders are those that do not use the system on day to day tasks, but use information, such as reports, from the system.​
+What type of stakeholders are those that do not use the system on day to day tasks, but use information, such as reports:
 - Executive stakeholders
 
 The group that provides direction for the configuration of the new system in the existing computing environment are called _______.​
@@ -285,29 +288,32 @@ The group that provides direction for the configuration of the new system in the
 Which of the following is normally the most time-consuming and resource-expensive operation?​
 - Interview stakeholders
 
+Every successful interview requires:
+- Preparation
+
 -----
 
 ### Analyze phase (core process 3)
 
-Beginning analysts often underestimate how much there is to learn about the work the users perform.​
+Analysts often underestimate how much there is to learn about the work the users perform.​
 - True
 
 If the analysts understand the major business processes, it is not usually necessary to create a comprehensive list of all business processes.​
-- False, processes are crucial to analyze
+- False, the analyst need to explain it to other analysts, project manager and developers
 
 Reviewing existing documentation is a good idea for analysts because it is a dependable source of accurate policies and procedures.​
-- False
+- False, it is good for Fact Finding and User Involvement
+
+It is a good idea to observe user processes so that the analyst will know exactly how to build the functions into the new system.​
+- False, "exactly how to build functions" are in design phase (core process 4)
 
 When observing business processes, it is not necessary to observe all the processes at the same level of detail.​
 - True
 
-It is a good idea to observe user processes so that the analyst will know exactly how to build the functions into the new system.​
-- False
-
 Sometimes a narrative description is the best form to use for recording information.​
 - True
 
-One of the dangers in researching vendor solutions is that users and analysts _______.​
+One of the dangers in researching vendor solutions is that users and analysts:
 - May want to buy one of these solutions prematurely
 
 Which are the major business themes that guide analysts in fact finding activities? (chose 3)​
@@ -321,7 +327,7 @@ Two benefits of researching vendor solutions include _______ and ______. (Choose
 
 -----
 
-#### Analyze - Interview & Questionnaires
+### Analyze - Interview & Questionnaires
 
 As part of the interview process, any unresolved issues should be _______.​
 - Put on an open-items list
